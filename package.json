@@ -1,5 +1,5 @@
 {
-  "name": "guitar-note-display",
+  "name": "react-guitar-tuner",
   "version": "1.0.0",
   "description": "Display guitar notes as they are played live using the browser media stream API.",
   "main": "index.js",
